@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+}
+
+:root {
+  --color-text: #171717;
+  --nav-color: #626262;
+}
+
+
+
+body{
+  font-family: 'poppins';
+}
